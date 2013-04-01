@@ -1,0 +1,25 @@
+body {
+	background-color: #ffb400;
+	background-image: url("gfx/stripes.png");
+	background-repeat: repeat;
+	font-size: 12px;
+}
+#aboutdiv {
+	margin-top: 50px;
+	margin-left: 237px;
+	height: 400px;
+	width: 475px;
+	background-image: url("gfx/about.png");
+}
+#aboutcontdiv {
+	padding-top: 200px;
+	margin-left: 40px;
+	height: 330px;
+	width: 395px;
+}
+#backhomediv {
+	padding-top: 25px;
+	width: 90px;
+	height: 115px;
+	float: right;
+}
